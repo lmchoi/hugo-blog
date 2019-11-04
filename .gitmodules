@@ -1,0 +1,7 @@
+[submodule "lmchoi.github.io"]
+	path = lmchoi.github.io
+	url = git@github.com:lmchoi/lmchoi.github.io.git
+	branch = master
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
