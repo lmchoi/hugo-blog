@@ -1,6 +1,6 @@
 ---
 title: "OverTheWire: Natas"
-date: 2019-11-05T19:54:00Z
+date: 2019-11-06T19:03:00Z
 draft: true
 ---
 
@@ -8,7 +8,7 @@ Ref: https://overthewire.org/wargames/natas/
 
 **This is not a walkthrough.** Just some tips and hints to get out of rabbit holes.
 
-### Level 0-5
+### Level 1-5
 * Make use of the **Developer Tools** in your browser.
 * In the html code for each level, only `<div id="content">` block is relevant. Pay attention to the hints there.
 
